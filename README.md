@@ -63,11 +63,7 @@ Below are a few selected projects that demonstrate the end-to-end nature of my w
 
 I'm always open to connecting, discussing new opportunities, or collaborating on interesting data challenges. Feel free to reach out!
 
-<!-- 
-✨ **Action for you:** Replace the placeholder URLs below with your actual LinkedIn profile URL and professional email address.
--->
-
 <p align="left">
-<a href="www.linkedin.com/in/zak-khalwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
-<a href="mailto:zak.khalwani@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/gmail.svg" alt="Your Email" height="30" width="40" /></a>
-</p>```
+<a href="www.linkedin.com/in/zak-khalwani]" target="blank"><img align="center" src="assets/linkedin.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
+<a href="mailto:[zak.khalwani@gmail.com]" target="blank"><img align="center" src="assets/gmail.svg" alt="Your Email" height="30" width="40" /></a>
+</p>
