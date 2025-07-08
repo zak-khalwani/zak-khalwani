@@ -18,27 +18,28 @@ I leverage a modern data stack to tackle challenges across the full analytics li
 
 <p align="left">
   <strong>BI & Visualization:</strong><br>
-  <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
-  <a href="https://docs.microsoft.com/en-us/dax/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logoColor=white" alt="DAX"></a>
-  <a href="https://powerquery.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power Query (M)-01B8AA?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Query"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"></a>
+  <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Seaborn-88d4de?style=for-the-badge&logo=seaborn&logoColor=black" alt="Seaborn"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
 </p>
 <p align="left">
   <strong>Data Platforms & Engineering:</strong><br>
-  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft Fabric-6A00FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"></a>
+  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-6A00FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"></a>
-  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery"></a>
+  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery"></a>
 </p>
 <p align="left">
-  <strong>Data Science & Scripting:</strong><br>
+  <strong>Data Analysis:</strong><br>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"></a>
+  <a href="https://docs.microsoft.com/en-us/dax/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logoColor=white" alt="DAX"></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"></a>
 </p>
 
 ---
