@@ -1,0 +1,36 @@
+<svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    width: 100%;
+                    height: 200px;
+                    background: linear-gradient(90deg, #1A202C, #2D3748);
+                    border-radius: 10px;
+                    color: white;
+                    text-align: center;
+                }
+                .name {
+                    font-size: 2.5em;
+                    font-weight: 700;
+                    margin-bottom: 0.2em;
+                    text-shadow: 0 0 5px rgba(255,255,255,0.3);
+                }
+                .title {
+                    font-size: 1.2em;
+                    font-weight: 400;
+                    color: #A0AEC0;
+                }
+            </style>
+            <div class="container">
+                <div class="name">Zak Khalwani</div>
+                <div class="title">Data Consultant | Business Intelligence Engineer | Data Analyst</div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
