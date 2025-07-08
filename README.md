@@ -1,9 +1,8 @@
-# Hi there, I'm Zak Khalwani 👋
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mijean/Mijean/main/header.png" alt="Data Analytics Banner">
+  <img src="assets/banner.svg" alt="Zak Khalwani - Data Analytics and BI">
 </p>
-<!-- You can create your own banner at canva.com or figma.com and replace the URL above -->
+
+# Hi there, I'm Zak Khalwani 👋
 
 I'm a **Data Consultant**, **Business Intelligence Engineer**, and **Data Analyst** specializing in transforming complex business problems into clear, actionable, and profitable solutions.
 
