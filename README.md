@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Zak Khalwani - Data Analytics and BI">
-</p>
-
 # Hi there, I'm Zak Khalwani 👋
 
-I'm a **Data Consultant**, **Business Intelligence Engineer**, and **Data Analyst** specializing in transforming complex business problems into clear, actionable, and profitable solutions.
+I'm a **Data Analyst** and **Business Intelligence Engineer** specializing in transforming complex business problems into clear, actionable, and profitable solutions.
 
 My expertise lies in developing end-to-end data strategies—from architecting data pipelines and building robust data models in Microsoft Fabric, to conducting deep-dive diagnostic analysis in Python & SQL. I translate these findings into interactive Power BI dashboards and "what-if" simulators that empower C-suite leaders to make smarter, data-driven decisions.
 
