@@ -1,10 +1,9 @@
-# Hi there, I'm Zak Khalwani 👋
+# Hi There, I'm Zak Khalwani 👋
+I build data solutions that drive measurable business impact, such as increasing gross profit by 18%, reducing new-user churn by 40%, and preventing significant negative ROI through rigorous A/B testing.
 
-I'm a **Data Analyst** and **Business Intelligence Engineer** specializing in transforming complex business problems into clear, actionable, and profitable solutions.
+My expertise lies in the full data lifecycle: architecting end-to-end data pipelines and star schema models in Microsoft Fabric, conducting diagnostic analysis and building optimization models in Python and SQL, and creating interactive dashboards and "what-if" simulators in Power BI. I specialize in transforming complex business problems into clear, actionable, and profitable solutions.
 
-My expertise lies in developing end-to-end data strategies—from architecting data pipelines and building robust data models in Microsoft Fabric, to conducting deep-dive diagnostic analysis in Python & SQL. I translate these findings into interactive Power BI dashboards and "what-if" simulators that empower C-suite leaders to make smarter, data-driven decisions.
-
-This GitHub profile is a curated portfolio of my work. It showcases a range of projects that have delivered measurable business value, including reversing profit margin decline, reducing customer churn, and unlocking millions in cost savings.
+The repositories on this profile are a curated portfolio of my work, demonstrating how I apply these skills to solve practical business challenges.
 
 ---
 
@@ -36,6 +35,15 @@ I leverage a modern data stack to tackle challenges across the full analytics li
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+</p>
+</p>
+<p align="left">
+<strong>DevOps & Orchestration:</strong><br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+<a href="https://www.mage.ai/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mage-16B364?style=for-the-badge&logo=mage&logoColor=white" alt="Mage"></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"></a>
 </p>
 
 ---
