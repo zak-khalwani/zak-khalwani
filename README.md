@@ -1,5 +1,5 @@
 # Hi There, I'm Zak Khalwani 👋
-I build data solutions that drive measurable business impact, such as increasing gross profit by 18%, reducing new-user churn by 40%, and preventing significant negative ROI through rigorous A/B testing.
+I build data solutions that drive measurable business impact, such as **increasing gross profit by 18%**, **reducing new-user churn by 40%**, and **preventing significant negative ROI (-25%)** through rigorous A/B testing.
 
 My expertise lies in the full data lifecycle: architecting end-to-end data pipelines and star schema models in Microsoft Fabric, conducting diagnostic analysis and building optimization models in Python and SQL, and creating interactive dashboards and "what-if" simulators in Power BI. I specialize in transforming complex business problems into clear, actionable, and profitable solutions.
 
